@@ -3,8 +3,8 @@ body {
 }
 
 /** links **/
- /* unvisited link */
- a:link {
+/* unvisited link */
+a:link {
   color: rgb(147, 82, 106);
 }
 
@@ -21,7 +21,7 @@ a:hover {
 /* selected link */
 a:active {
   color: rgb(135, 29, 68);
-} 
+}
 
 /** box **/
 
@@ -56,7 +56,7 @@ a:active {
   left: 50%;
   transform: translate(-50%, -130%);
   color: white;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 #header-left img {
